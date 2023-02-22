@@ -18,7 +18,7 @@ function Header() {
     <header className='header'>
       <div className='logo'>
         <Link to='/'>
-          <h1>Pensieve</h1>
+          <h1>GPS LOGGER</h1>
         </Link>
       </div>
       <ul>
